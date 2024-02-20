@@ -1,4 +1,4 @@
-
+// enkapsulasi kelas product
 public class Product {
 
     private String idProduct;
@@ -6,11 +6,12 @@ public class Product {
     private String brand;
     private int price;
 
+    // empty constructor agar bisa membuat child class nanti tanpa langsung set attribut Product
     public Product() {
         
     }
 
-
+    // constructor langsung dengan attribut
     public Product(String idProduct, String name, String brand, int price) {
         this.idProduct = idProduct;
         this.name = name;
@@ -18,6 +19,8 @@ public class Product {
         this.price = price;
     }
 
+    // getters & setters
+    
     public String getIdProduct() {
         return this.idProduct;
     }
