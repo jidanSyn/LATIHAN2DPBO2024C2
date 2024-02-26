@@ -25,7 +25,7 @@ Program terdiri dari 5* kelas (6 untuk python) yaitu Product, Clothing, Shirt, D
 ## Dokumentasi Program
 ### Java, C++, Python
 ![image](https://github.com/jidanSyn/LATIHAN2DPBO2024C2/assets/114399924/2aeae896-73a2-4948-9cd9-51022c788c54)
-# 
+### PHP
 ![image](https://github.com/jidanSyn/LATIHAN2DPBO2024C2/assets/114399924/2306e7b1-2fb2-4016-af14-ad1b92e6190b)
 ## Compile & Run Program
 C++: dalam directory program
